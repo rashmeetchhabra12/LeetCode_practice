@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
