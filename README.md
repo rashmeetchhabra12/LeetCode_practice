@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Sorting
 |  |
@@ -52,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
