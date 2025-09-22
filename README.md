@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashmeet12/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashmeet12/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashmeet12/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
