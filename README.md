@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rashmeet12/LeetCode_practice/tree/master/0165-compare-version-numbers) |
+| [0812-rotate-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/0812-rotate-string) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rashmeet12/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
