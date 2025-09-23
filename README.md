@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/rashmeet12/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashmeet12/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/rashmeet12/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
