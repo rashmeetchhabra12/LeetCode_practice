@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/rashmeet12/LeetCode_practice/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/rashmeet12/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rashmeet12/LeetCode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rashmeet12/LeetCode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
