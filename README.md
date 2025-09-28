@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
+| [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rashmeet12/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -56,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rashmeet12/LeetCode_practice/tree/master/0242-valid-anagram) |
+| [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 ## Recursion
 |  |
