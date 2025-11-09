@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rashmeet12/LeetCode_practice/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rashmeet12/LeetCode_practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bit Manipulation
 |  |
