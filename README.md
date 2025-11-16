@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/rashmeet12/LeetCode_practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rashmeet12/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/rashmeet12/LeetCode_practice/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/0812-rotate-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/rashmeet12/LeetCode_practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rashmeet12/LeetCode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
