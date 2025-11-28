@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/rashmeet12/LeetCode_practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/rashmeet12/LeetCode_practice/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/rashmeet12/LeetCode_practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/rashmeet12/LeetCode_practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
