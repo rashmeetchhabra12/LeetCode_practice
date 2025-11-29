@@ -4,7 +4,6 @@ public:
         int sum=0;
         for(auto num:nums) sum+=num;
 
-        int des=(sum/k)*k;
-        return sum-des;
+        return sum%k;
     }
 };
