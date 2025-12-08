@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rashmeet12/LeetCode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rashmeet12/LeetCode_practice/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/rashmeet12/LeetCode_practice/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/rashmeet12/LeetCode_practice/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/rashmeet12/LeetCode_practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Tree
 |  |
