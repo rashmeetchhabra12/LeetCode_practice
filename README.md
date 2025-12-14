@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rashmeet12/LeetCode_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/rashmeet12/LeetCode_practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/rashmeet12/LeetCode_practice/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rashmeet12/LeetCode_practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rashmeet12/LeetCode_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/rashmeet12/LeetCode_practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rashmeet12/LeetCode_practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rashmeet12/LeetCode_practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rashmeet12/LeetCode_practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/rashmeet12/LeetCode_practice/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3462-vowels-game-in-a-string](https://github.com/rashmeet12/LeetCode_practice/tree/master/3462-vowels-game-in-a-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/rashmeet12/LeetCode_practice/tree/master/0474-ones-and-zeroes) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rashmeet12/LeetCode_practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rashmeet12/LeetCode_practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/rashmeet12/LeetCode_practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
