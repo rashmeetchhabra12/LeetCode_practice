@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/rashmeet12/LeetCode_practice/tree/master/0242-valid-anagram) |
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
+| [2092-find-all-people-with-secret](https://github.com/rashmeet12/LeetCode_practice/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/rashmeet12/LeetCode_practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rashmeet12/LeetCode_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -210,20 +211,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/rashmeet12/LeetCode_practice/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/rashmeet12/LeetCode_practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/rashmeet12/LeetCode_practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/rashmeet12/LeetCode_practice/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/rashmeet12/LeetCode_practice/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/rashmeet12/LeetCode_practice/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/rashmeet12/LeetCode_practice/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/rashmeet12/LeetCode_practice/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/rashmeet12/LeetCode_practice/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/rashmeet12/LeetCode_practice/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
