@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rashmeet12/LeetCode_practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rashmeet12/LeetCode_practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/rashmeet12/LeetCode_practice/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rashmeet12/LeetCode_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashmeet12/LeetCode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/rashmeet12/LeetCode_practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rashmeet12/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
