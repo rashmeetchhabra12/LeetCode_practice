@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/rashmeet12/LeetCode_practice/tree/master/0474-ones-and-zeroes) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rashmeet12/LeetCode_practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rashmeet12/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/rashmeet12/LeetCode_practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rashmeet12/LeetCode_practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
