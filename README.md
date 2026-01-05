@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/rashmeet12/LeetCode_practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1646-kth-missing-positive-number](https://github.com/rashmeet12/LeetCode_practice/tree/master/1646-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rashmeet12/LeetCode_practice/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rashmeet12/LeetCode_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/rashmeet12/LeetCode_practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/0410-split-array-largest-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/rashmeet12/LeetCode_practice/tree/master/1018-largest-perimeter-triangle) |
+| [1975-maximum-matrix-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/rashmeet12/LeetCode_practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/rashmeet12/LeetCode_practice/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rashmeet12/LeetCode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/rashmeet12/LeetCode_practice/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rashmeet12/LeetCode_practice/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/rashmeet12/LeetCode_practice/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rashmeet12/LeetCode_practice/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rashmeet12/LeetCode_practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## String Matching
